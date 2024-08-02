@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exam02.AnswerClass.Answer" Collapsed="true">
+    <Position X="9" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>AnswerClass\Answer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.ExamClasses.Exam" Collapsed="true">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAMAAAAAIASAAAAAAEAAQAEAAAQAAAAAQA=</HashCode>
+      <FileName>ExamClasses\Exam.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.ExamClasses.Final" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEBIAAAAAIASAEAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamClasses\Final.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.ExamClasses.Practical" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAIASAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExamClasses\Practical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.ManagerClass.Manager" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>ManagerClass\Manager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.QuestionClasses.Question" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BACCQAAgAAAAAAAAAAABAAAAAAAAAAAAQECIAAAAhAI=</HashCode>
+      <FileName>QuestionClasses\Question.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.QuestionClasses.MCQ" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AICEAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>QuestionClasses\MCQ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.QuestionClasses.TrueOrFalse" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>QuestionClasses\TrueOrFalse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exam02.SubjectClass.Subject" Collapsed="true">
+    <Position X="4" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAQAAAAAAABAAAEAEAIAABA=</HashCode>
+      <FileName>SubjectClass\Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
